@@ -1,8 +1,0 @@
-#0;Apple;1;f3.txt;1#
-#0;ant;1;f3.txt;1#
-#0;am;1;f3.txt;1#
-#1;ball;1;f3.txt;1#
-#1;banana;1;f3.txt;1#
-#2;cat;1;f3.txt;1#
-#2;cow;1;f3.txt;1#
-#2;call;1;f3.txt;1#
